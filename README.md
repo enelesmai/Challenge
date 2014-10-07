@@ -1,7 +1,7 @@
-Challenge
+Code Challenge
 =========
 
-Code Challenge 
+
 
 Build a polynomial equation from an array of numbers.
 
