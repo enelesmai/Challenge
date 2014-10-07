@@ -17,5 +17,6 @@ Rules:
 Examples:
 --
 Polynomial.new([-3,-4,1,0,6]) # => -3x^4-4x^3+x^2+6
+
 Polynomial.new([1,0,2]) # => x^2+2
 
